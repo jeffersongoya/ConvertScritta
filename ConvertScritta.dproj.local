@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/27 13:50:06.000.872,=C:\Users\Jefferson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 18:58:00.000.333,=C:\Users\Jefferson Goya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/01 20:51:20.933,=C:\Users\Jefferson Goya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/01 20:51:47.371,D:\Paulo\ConvertScritta\uPrincipal.dfm=C:\Users\Jefferson Goya\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/01 20:51:47.371,D:\Paulo\ConvertScritta\uPrincipal.pas=C:\Users\Jefferson Goya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/01 20:51:49.533,D:\Paulo\ConvertScritta\ConvertScritta.dproj=C:\Users\Jefferson Goya\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
